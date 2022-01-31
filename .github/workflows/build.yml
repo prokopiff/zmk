@@ -22,6 +22,7 @@ jobs:
         shield:
           - corne_left
           - corne_right
+          - reviung41
         cmake-args: [""]
         include: []
     steps:
